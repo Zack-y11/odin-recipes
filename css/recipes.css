@@ -13,7 +13,7 @@
 }
 
 h1,
-p {
+h3 {
     animation-name: titulo;
     animation-duration: 2s;
     animation-direction: alternate;
